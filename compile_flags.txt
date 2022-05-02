@@ -1,0 +1,10 @@
+-L
+/usr/local/lib/cmake/SDL2
+-l
+SDL2
+-I
+/usr/local/include/SDL2
+-framework
+OpenGL
+-I 
+/Users/jordanhall/Projects/tinyrenderer/me/realopengl/include
